@@ -10,6 +10,7 @@ const Banner = () => {
           width={1200}
           height={400}
           className="size-full"
+          alt="whoweare banner"
         />
       </div>
     </>
