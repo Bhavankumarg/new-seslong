@@ -7,10 +7,10 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        gibson: ["Gibson", "sans-serif"], // Add your custom font
       },
+     
     },
   },
   plugins: [],
